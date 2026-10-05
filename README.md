@@ -31,3 +31,7 @@ Open `index.html` in a browser, or serve the folder with any static server.
 ## Design notes
 
 Warm cream / saffron–terracotta / deep green — distinct from teal seafood branding. Google Fonts: Fraunces + DM Sans. Vanilla HTML/CSS/JS only.
+
+## Live demo
+
+Deployed on Cloudflare Pages from this repository (`main`).
